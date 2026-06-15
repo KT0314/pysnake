@@ -1,3 +1,4 @@
+#要執行請輸入 python main.py
 # main.py
 import pygame
 import random
